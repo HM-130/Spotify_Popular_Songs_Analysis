@@ -25,6 +25,6 @@ The final step was plotting bar charts of mean values. I found the mean value of
 I concluded that hits in 2024 are on average: more danceable (with the mean value increasing by 0.04), more energetic (with the mean value increasing by roughly 0.1), have lower valence (with the mean value decreasing by roughly 0.1), and are louder (with the mean decibels increasing by roughly 4), than hits in the 1970s. Please keep in mind that this is just a project that I did to practice my skills. It doesn't take into account events happening in these time periods, and the playlists themselves might be indeed inaccurate. Please take into account the different amounts of songs in each csv, they were the best playlists I could find on spotify.
 
 ## Project Files
-[Analysis Notebook](analysis.ipynb) - Main analysis performed on the data 
-[2024 top 50 songs](spotify_top_2024.csv) - The top 50 hits in 2024
-[1970 top 100 songs](spotify_top_1970.csv) - The top 100 hits in the 1970s
+- [Analysis Notebook](analysis.ipynb) - Main analysis performed on the data 
+- [2024 top 50 songs](spotify_top_2024.csv) - The top 50 hits in 2024
+- [1970 top 100 songs](spotify_top_1970.csv) - The top 100 hits in the 1970s
