@@ -1,0 +1,101 @@
+name,artist,danceability,energy,tempo,valence,loudness
+September,"Earth, Wind & Fire",0.697,0.832,125.926,0.979,-7.264
+O-o-h Child,The Five Stairsteps,0.488,0.754,88.368,0.664,-7.95
+Come and Get Your Love - Single Version,Redbone,0.731,0.804,107.383,0.957,-7.621
+Play That Funky Music,Wild Cherry,0.814,0.672,109.394,0.933,-12.068
+Piano Man,Billy Joel,0.331,0.55,177.734,0.429,-6.483
+The Great Gig in the Sky,Pink Floyd,0.274,0.217,116.334,0.181,-13.814
+Highway to Hell,AC/DC,0.574,0.913,115.728,0.423,-4.793
+More Than a Feeling,Boston,0.377,0.681,108.789,0.285,-8.039
+Rich Girl,Daryl Hall & John Oates,0.573,0.683,169.519,0.817,-6.644
+Don't Stop 'Til You Get Enough,Michael Jackson,0.878,0.821,118.881,0.947,-9.875
+Brandy (You're a Fine Girl),Looking Glass,0.716,0.625,125.276,0.826,-11.369
+Blame It on the Boogie,The Jacksons,0.774,0.641,113.256,0.875,-10.193
+Burning Love,Elvis Presley,0.66,0.748,143.549,0.972,-11.206
+Ain't No Sunshine,Bill Withers,0.527,0.415,78.169,0.515,-11.451
+Born to Run,Bruce Springsteen,0.27,0.944,146.347,0.606,-4.199
+Killing Me Softly With His Song,Roberta Flack,0.476,0.381,121.948,0.33,-10.238
+Best of My Love,The Emotions,0.784,0.713,115.443,0.97,-6.865
+Have You Ever Seen The Rain,Creedence Clearwater Revival,0.741,0.697,116.109,0.774,-7.028
+I'm a Ramblin' Man,Waylon Jennings,0.772,0.561,109.435,0.768,-11.654
+I Was Made For Lovin' You,KISS,0.768,0.852,128.373,0.867,-6.215
+Wild World,Yusuf / Cat Stevens,0.48,0.542,152.853,0.567,-8.51
+Sweet Home Alabama,Lynyrd Skynyrd,0.596,0.606,97.785,0.886,-12.145
+Barracuda,Heart,0.548,0.691,137.145,0.667,-13.553
+Roxanne,The Police,0.618,0.748,134.114,0.663,-8.905
+Carry on Wayward Son,Kansas,0.482,0.786,126.755,0.793,-5.735
+Mr. Blue Sky,Electric Light Orchestra,0.388,0.338,177.765,0.478,-10.054
+Lovely Day,Bill Withers,0.692,0.651,97.923,0.706,-8.267
+Hold the Line,TOTO,0.473,0.898,96.556,0.808,-4.797
+Rock with You - Single Version,Michael Jackson,0.808,0.535,114.031,0.848,-12.521
+Vienna,Billy Joel,0.532,0.495,124.936,0.308,-6.662
+Copacabana (At the Copa),Barry Manilow,0.606,0.899,116.735,0.66,-6.412
+(Don't Fear) The Reaper,Blue Öyster Cult,0.333,0.927,141.466,0.385,-8.55
+It's Too Late,Carole King,0.45,0.442,208.282,0.812,-12.718
+Jolene,Dolly Parton,0.674,0.537,110.578,0.809,-10.971
+Stayin Alive,Bee Gees,0.702,0.773,103.564,0.953,-9.256
+Gimme! Gimme! Gimme! (A Man After Midnight),ABBA,0.749,0.491,119.528,0.536,-9.655
+Sara Smile,Daryl Hall & John Oates,0.592,0.398,150.038,0.204,-10.81
+Me and Bobby McGee,Janis Joplin,0.43,0.463,93.405,0.66,-10.96
+Last Train to London,Electric Light Orchestra,0.727,0.537,121.493,0.954,-9.785
+Easy,Commodores,0.591,0.387,132.921,0.358,-15.077
+Badlands,Bruce Springsteen,0.609,0.777,122.612,0.852,-7.548
+Money,Roger Waters,0.538,0.223,103.04,0.276,-18.013
+Reasons,"Earth, Wind & Fire",0.604,0.43,126.632,0.574,-10.624
+The Chain - 2004 Remaster,Fleetwood Mac,0.545,0.67,151.553,0.481,-8.81
+Hotel California - 2013 Remaster,Eagles,0.579,0.508,147.125,0.609,-9.484
+Stairway to Heaven - Remaster,Led Zeppelin,0.338,0.34,82.433,0.197,-12.049
+O-o-h Child,The Five Stairsteps,0.488,0.754,88.368,0.664,-7.95
+Stayin' Alive,Bee Gees,0.707,0.535,103.644,0.641,-19.793
+What I Like About You,The Romantics,0.514,0.942,159.847,0.912,-8.433
+Midnight Train to Georgia,Gladys Knight & The Pips,0.595,0.379,92.006,0.448,-12.058
+The Devil Went Down to Georgia,The Charlie Daniels Band,0.523,0.626,134.127,0.917,-9.425
+Lady Marmalade,LaBelle,0.631,0.563,117.963,0.947,-12.135
+"Take Me Home, Country Roads - Original Version",John Denver,0.462,0.395,82.259,0.625,-9.376
+Your Song,Elton John,0.552,0.315,128.187,0.324,-11.028
+New York State of Mind,Billy Joel,0.506,0.373,121.289,0.194,-9.473
+Black Magic Woman - Single Version,Santana,0.489,0.349,124.348,0.622,-14.295
+You'll Never Find Another Love Like Mine,Lou Rawls,0.691,0.718,110.623,0.934,-8.457
+I Can See Clearly Now,Johnny Nash,0.658,0.468,124.227,0.684,-13.19
+Walk On the Wild Side,Lou Reed,0.575,0.318,104.522,0.385,-16.729
+Wham Bam Shang-A-Lang,Silver,0.65,0.759,121.454,0.943,-4.932
+I Don't Want to Go Home,Southside Johnny And The Asbury Jukes,0.608,0.72,121.718,0.963,-6.675
+Sweet Emotion,Aerosmith,0.379,0.76,99.436,0.491,-10.961
+"Rocket Man (I Think It's Going To Be A Long, Long Time)",Elton John,0.601,0.532,136.576,0.342,-9.119
+Three Little Birds,Bob Marley & The Wailers,0.825,0.494,74.103,0.627,-10.486
+Lowdown,Boz Scaggs,0.662,0.788,116.499,0.929,-5.544
+Got to Be Real,Cheryl Lynn,0.836,0.626,114.657,0.898,-10.143
+Off the Wall,Michael Jackson,0.827,0.595,118.741,0.921,-13.909
+Black Betty,Ram Jam,0.465,0.907,117.293,0.681,-6.404
+How Deep Is Your Love,Bee Gees,0.633,0.357,104.938,0.672,-9.366
+La Grange - 2005 Remaster,ZZ Top,0.545,0.64,80.544,0.606,-9.937
+Take It Easy - 2013 Remaster,Eagles,0.575,0.67,139.191,0.74,-10.39
+Summer Nights - From “Grease”,John Travolta,0.747,0.663,124.336,0.606,-9.415
+Go Your Own Way - 2004 Remaster,Fleetwood Mac,0.583,0.947,135.448,0.803,-5.12
+You've Got a Friend,Carole King,0.473,0.263,169.094,0.461,-10.684
+Dancing Queen,ABBA,0.543,0.87,100.804,0.754,-6.514
+Immigrant Song - Remaster,Led Zeppelin,0.564,0.932,112.937,0.619,-10.068
+Shining Star,"Earth, Wind & Fire",0.676,0.692,102.516,0.799,-13.093
+Bridge Over Troubled Water,Simon & Garfunkel,0.149,0.206,79.764,0.264,-13.888
+Love Train,The O'Jays,0.743,0.572,122.658,0.675,-9.627
+Two Tickets to Paradise (2022 Remaster),Eddie Money,0.603,0.627,129.617,0.701,-16.011
+Without You,Harry Nilsson,0.381,0.186,65.058,0.142,-15.477
+Mamma Mia,ABBA,0.749,0.748,137.547,0.827,-7.011
+Wonderful Tonight,Eric Clapton,0.572,0.214,95.542,0.485,-15.625
+Bat Out of Hell,Meat Loaf,0.204,0.837,171.514,0.392,-7.618
+Use Me,Bill Withers,0.758,0.586,154.629,0.947,-13.461
+Because the Night,Patti Smith,0.466,0.763,123.539,0.473,-7.748
+Don't Look Back,Boston,0.359,0.717,121.878,0.47,-10.309
+I Will Always Love You,Dolly Parton,0.446,0.142,135.724,0.156,-13.498
+Mississippi Queen,Mountain,0.581,0.624,139.714,0.637,-8.346
+It's a Long Way to the Top (If You Wanna Rock 'N' Roll),AC/DC,0.456,0.863,135.962,0.532,-3.551
+Lights (2024 Remaster),Journey,0.199,0.557,205.547,0.395,-6.412
+After the Love Has Gone,"Earth, Wind & Fire",0.424,0.443,131.675,0.391,-13.45
+"For the Love of You, Pts. 1 & 2",The Isley Brothers,0.686,0.374,102.879,0.693,-11.029
+Kiss and Say Goodbye,The Manhattans,0.645,0.42,129.084,0.583,-10.09
+If You Don't Know Me By Now,Harold Melvin & The Blue Notes,0.459,0.426,93.806,0.486,-10.049
+Here You Come Again,Dolly Parton,0.585,0.511,105.898,0.552,-9.37
+Mammas Don't Let Your Babies Grow up to Be Cowboys,Waylon Jennings,0.363,0.361,187.711,0.612,-14.398
+"Footsteps in the Dark, Pts. 1 & 2",The Isley Brothers,0.679,0.374,80.86,0.871,-10.565
+Dream On,Aerosmith,0.392,0.476,78.031,0.234,-7.583
+Baby I'm Yours - Digitally Remastered,Cass Elliot,0.518,0.487,202.695,0.821,-11.032
